@@ -1,0 +1,65 @@
+*{
+    margin:0;
+  }
+  #grey{
+    height:15vh;
+    width:100vw;
+    background-color:lightgrey;
+    display: flex;
+    align-items: center;
+  }
+  .size{
+     height:25vh;
+    width:100vw;
+  }
+  #blueBox{
+    background-color: blue;
+    height:60px;
+    width: 60px;
+    margin:20px;
+  }
+  #white{
+     height:30vh;
+    width:100vw;
+    background-color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #text{
+    margin:10px;
+  }
+  #blue{
+    background-color: blue;
+  }
+  #turq{
+    background-color: turquoise;
+  }
+  
+  #green{
+    background-color:green;
+  }
+  
+  #yellow{
+    background-color:yellow;
+  }
+  
+  #blackCirc{
+    position: sticky;
+    bottom:15px;
+    left:92vw;
+    background-color:black;
+    height:50px;
+    width:50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+  
+  }
+  
+  #qMark {
+    color: white;
+    font-size: 24px;
+  }
